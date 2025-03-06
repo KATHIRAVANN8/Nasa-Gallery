@@ -1,6 +1,4 @@
-Here's your updated README with the **Live Demo** link added:  
 
----
 
 # 🌠 NASA Astronomy Gallery  
 
